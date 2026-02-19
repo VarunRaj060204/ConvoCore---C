@@ -1,0 +1,14 @@
+# build files
+cmake-build-debug/
+build/
+*.o
+*.out
+*.a
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
